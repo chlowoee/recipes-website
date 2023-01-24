@@ -1,0 +1,41 @@
+.title {
+  font-family: "Brush Script MT", "Courier New", sans-serif;
+  font-size: 150px;
+  background-color: lightskyblue;
+  border-color: antiquewhite;
+}
+
+.subtitle {
+  font-family: "Courier New", sans-serif;
+  font-size: 75px;
+  font-display: fallback;
+  font-weight: 200;
+  text-decoration: dashed;
+  text-shadow: 2cm;
+  text-rendering: geometricPrecision;
+}
+
+div {
+  text-align: center;
+}
+
+body {
+  background: linear-gradient(to right, #824C71, lightgreen);
+  text-align: center;
+  list-style-position:inside;
+
+}
+
+div#rad-gradient {
+  background: radial-gradient(circle at center, #CDD7D6, #F1BF98 );
+}
+
+div#rad-gradient2 {
+  background: radial-gradient(circle at center, #919098, #CFBCDF );
+}
+
+.home {
+  font-size: 100px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
