@@ -1,0 +1,38 @@
+.title {
+  font-family: "Brush Script MT", "Courier New", sans-serif;
+  font-size: 150px;
+}
+
+.subtitle {
+  font-family: "Courier New", sans-serif;
+  font-size: 75px;
+  font-display: fallback;
+  font-weight: 200;
+  text-decoration: dashed;
+  text-shadow: 2cm;
+  text-rendering: geometricPrecision;
+}
+/*
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.middle {
+  text-align: center;
+}
+
+#unique-img {
+  align-items: center;
+  /*display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: auto;
+}*/
+
+div {
+  text-align: center;
+}
+
